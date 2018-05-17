@@ -164,7 +164,7 @@ header.masthead {
     height: 200px;
     background: rgba(0, 0, 0, 0);
     color: #fff;
-    top: 50%;
+    top: 30%;
     left: 50%;
     position:absolute;
     transform: translate(-50%,-50%);
@@ -219,6 +219,7 @@ h1{
     font-family: 'Merriweather Sans', sans-serif;
     Width: 100px;
     border-radius: 5px;
+    padding-top: 5px;
 }
 
 .email input[type="submit"]:hover
@@ -226,4 +227,20 @@ h1{
     cursor: pointer;
     background: #39b1dd;
     color: #000;
+}
+
+/*Contact Form */
+.message{
+    width: 325px;
+    height: 200px;
+    border: none;
+    border-bottom: 0px solid #fff;
+    Background: rgba(0,0,0,.25);
+    border-radius: 7px;
+    outline: none;
+    color:#fff;
+    font-size: 17px;
+    font-family:'Merriweather Sans', sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
 }
