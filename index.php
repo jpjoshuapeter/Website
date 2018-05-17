@@ -12,7 +12,7 @@
             <div class="wrapper">
                 <ul>
                     <li><a class="active" href="index.html">Submarine Sound</a></li>
-                    <li style="float:right"><a class="list" href="contact.php">Contact</a></li>
+                    <li style="float:right"><a class="list" href="contact.html">Contact</a></li>
                     <li style="float:right"><a class="list" href="about-us.html">About Us</a></li>
                     <li style="float:right"><a class="list" href="products.html">Products</a></li>
                 </ul>
