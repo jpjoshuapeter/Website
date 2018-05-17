@@ -194,7 +194,7 @@ h1{
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: black;
-    opacity: .35; /* Firefox */
+    opacity: .40; /* Firefox */
 }
 
 .email input[type="text"], input[type="email"]
