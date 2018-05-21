@@ -300,3 +300,66 @@ h1{
     background: #39b1dd;
     color: #000;
 }
+
+/* icons section */
+
+.icons {
+    align-items: center;
+    font-size:100px;color:#007bff;"
+    padding-left: 30px;
+    padding-top: 40px;
+    /* display: inline-block;*/
+    flex-wrap: wrap;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: .60s;
+}
+
+.icons-whole{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    background: #f8f9fa;
+    padding-bottom: 50px;
+
+}
+
+.lead{
+    font-family:'Merriweather Sans', sans-serif;
+}
+
+h3{
+    font-family:'Merriweather Sans', sans-serif;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.icons:hover{
+    font-size: 105px;
+}
+/*
+.row {
+    width:100%;
+    text-align:center;
+}
+
+.icons-layers {
+    float:left;
+    width:100px;
+}
+
+.icons-drop {
+    display: inline-block;
+    margin:0 auto;
+    width:100px;
+}
+
+.icons-screen {
+    float:right;
+    width:100px;
+}
+*/
